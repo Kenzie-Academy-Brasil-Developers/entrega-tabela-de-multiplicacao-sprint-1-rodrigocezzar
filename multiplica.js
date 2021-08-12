@@ -7,8 +7,7 @@ function matriz(n) {
         }         
             
     }   
-        return x          
+        return x      
 }
-
 console.table(matriz(10));
    
